@@ -58,14 +58,17 @@ body {
 
 .skill-per.css {
     width: 70%;
+    animation-delay: 0.1s;
 }
 
 .skill-per.javascript {
     width: 50%;
+    animation-delay: 0.2s;
 }
 
 .skill-per.nodejs {
     width: 30%;
+    animation-delay: 0.3s;
 }
 
 @keyframes progress {
